@@ -33,7 +33,7 @@ permalink: /about/
                             PROJECT LION, 백엔드 익스턴십 <br>
                             </div>
                             <div class="card-block m-2 mt-3 alert-{{message.tag}}"> 
-                            - 2022.09 ~   <br>
+                            - 2022.09 ~ 2024.08  <br>
                             국민대학교 소프트웨어융합대학원 <br>
                             </div>
                         </div>
